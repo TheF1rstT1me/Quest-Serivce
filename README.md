@@ -1,6 +1,8 @@
-# Race-Generator
+# Highly adaptable quest system
 Check README
 
 
-In my game, this modular script is responsible for generating an absolutely random obstacle course consisting of different sections, each of which calculates the docking location by CFrame. The number of sections depends on the special variable + I can specify the chance of its appearance on the obstacle course for each section so that there are different levels each time.
-The obstacle course is regenerated independently each time.
+This module serves as the core of a highly adaptable quest system, perfect for any game of this genre. 
+    It handles everything from resetting and assigning daily and weekly quests (configured in the accompanying `QuestData.lua` file) 
+    to tracking progress and handing out rewards. The reward system is extremely flexible, allowing for anything from premium 
+    cosmetics (like explosions or slaps) to standard consumables.
