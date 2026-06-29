@@ -1,4 +1,6 @@
 --[[
+	DISCORD: s1mpai (Carlos) ROBLOX: affsdh3 (diman725te_v2)
+
     This module serves as the core of a highly adaptable quest system, perfect for any game of this genre. 
     It handles everything from resetting and assigning daily and weekly quests (configured in the accompanying `QuestData.lua` file) 
     to tracking progress and handing out rewards. The reward system is extremely flexible, allowing for anything from premium 
